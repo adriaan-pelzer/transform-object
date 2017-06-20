@@ -1,5 +1,5 @@
 {
-  "name": "transform-object",
+  "name": "transform-object-spec",
   "version": "0.0.1",
   "description": "Object transformation by specification",
   "main": "index.js",

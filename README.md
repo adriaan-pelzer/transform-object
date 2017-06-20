@@ -1,4 +1,4 @@
-# transform-object
+# transform-object-spec
 ## object transformation by specification
 
 ### USAGE
@@ -6,13 +6,13 @@
 Install the module:
 
 ```
-    npm install transform-object
+    npm install transform-object-spec
 ```
 
 Require it:
 
 ```
-    const txObj = require ( 'transform-object' );
+    const txObj = require ( 'transform-object-spec' );
 ```
 
 Specify the transformation in terms of the following three groups:
