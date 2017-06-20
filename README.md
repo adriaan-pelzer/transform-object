@@ -69,6 +69,7 @@ An object of strings, keyed by attribute name, which will result in the attribut
 
     /** returns
     {
+        value: 5,
         addThis: 'a value to add',
         addThisToo: 'a dynamic value to add: 5',
         nowThis: 3,

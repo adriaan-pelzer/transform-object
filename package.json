@@ -1,0 +1,30 @@
+{
+  "name": "transform-object",
+  "version": "0.0.1",
+  "description": "Object transformation by specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaan-pelzer/transform-object.git"
+  },
+  "keywords": [
+    "transfrom",
+    "object",
+    "specification"
+  ],
+  "author": "Adriaan Pelzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriaan-pelzer/transform-object/issues"
+  },
+  "homepage": "https://github.com/adriaan-pelzer/transform-object#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {
+    "deep-equals": "0.0.2"
+  }
+}
